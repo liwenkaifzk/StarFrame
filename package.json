@@ -1,0 +1,8 @@
+{
+  "name": "cubeframe",
+  "version": "1.0.10",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {}
+}
