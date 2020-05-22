@@ -1,8 +1,35 @@
 {
-  "name": "cubeframe",
-  "version": "1.0.10",
-  "private": true,
-  "main": "index.js",
+  "_args": [
+    [
+      "git+http://github.com/liwenkaifzk/BcFrame.git#master",
+      "E:\\Coding\\BcTalk"
+    ]
+  ],
+  "_development": true,
+  "_from": "git+http://github.com/liwenkaifzk/BcFrame.git#master",
+  "_id": "cubeframe@git+http://github.com/liwenkaifzk/BcFrame.git#427ed87c9303c1d45a6af901b55201c9967751a5",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cubeframe",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+http://github.com/liwenkaifzk/BcFrame.git#master",
+    "rawSpec": "git+http://github.com/liwenkaifzk/BcFrame.git#master",
+    "saveSpec": "git+http://github.com/liwenkaifzk/BcFrame.git#master",
+    "fetchSpec": "http://github.com/liwenkaifzk/BcFrame.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+http://github.com/liwenkaifzk/BcFrame.git#427ed87c9303c1d45a6af901b55201c9967751a5",
+  "_spec": "git+http://github.com/liwenkaifzk/BcFrame.git#master",
+  "_where": "E:\\Coding\\BcTalk",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "index.js",
+  "name": "cubeframe",
+  "private": true,
+  "version": "1.0.10"
 }
