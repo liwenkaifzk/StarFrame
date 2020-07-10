@@ -17,7 +17,8 @@ global.CF = global.CubeFrame = {
     },
 
     get distPath() {
-        return `${this.debug ? 'http://localhost:9080/' : 'http://localhost:9080/' /*'file://' + this.appPath + '/'*/}`;
+         return `${this.debug ? 'http://localhost:9080/' : `file://${__dirname}/index.html`  /*file://${__dirname}/index.html*/}`;
+       // return `${this.debug ? `file://${__dirname}/index.html` : `file://${__dirname}/index.html`  /*file://${__dirname}/index.html*/}`;
     },
 
     get isMac() {
